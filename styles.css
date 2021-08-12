@@ -1,0 +1,188 @@
+/*****************************Tag selectors***************************/
+body{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+img {
+  width: 100%;
+  padding: 0;
+  margin: 0 !important;
+}
+
+/*****************************Class selectors***************************/
+
+.sunnynav {
+  background-color: #35b5ff ;
+  padding: 1%;
+}
+
+.button {
+  border-radius: 30px;
+  background-color: white;
+  padding-right: 8px !important;
+  font-size: small;
+  border-color: white;
+}
+
+.white {
+  color: white !important;
+}
+
+.logo {
+  font-family: "Fraunces", serif;
+}
+
+.brand {
+  padding: 0 0 0 0 !important;
+  display: grid;
+}
+
+.picture {
+  padding: 0 0 0 0 !important;
+}
+
+.bottom {
+  background-color: #7fccb8;
+}
+
+.client {
+  width: 3rem;
+  height: auto;
+  margin-top: 8%;
+}
+
+.trans {
+  width: 65%;
+  padding: auto;
+  margin: auto;
+  font-size: 1rem;
+  font-family: "Barlow";
+}
+
+.more {
+  color: #1c222b;
+}
+
+.trans p {
+  padding-top: 1rem;
+}
+.trans > h2 {
+  font-family: "Fraunces", serif;
+}
+
+.orange {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.creatives {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "Fraunces", serif;
+}
+
+.arrow {
+  padding-top: 2rem;
+  height: 8rem;
+  width: 8rem;
+}
+
+.learn {
+  font-family: "Fraunces", serif;
+  color: #10171d;
+}
+.graphic {
+  position: relative;
+  text-align: center;
+  color: #1e483f;
+}
+
+.info {
+  position: absolute;
+  top: 73%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.photography {
+  position: relative;
+  text-align: center;
+  color: #164456;
+}
+
+.info > h3 {
+  font-family: "Fraunces", serif;
+  margin-bottom: 7%;
+}
+.info > p {
+  font-family: "Barlow";
+}
+
+.clients > h5 {
+  color: lightgrey;
+  font-family: "Fraunces", serif;
+  text-align: center;
+  margin-top: 6rem;
+  margin-bottom: 3rem;
+}
+
+.credentials {
+  margin-bottom: 5rem;
+  text-align: center;
+}
+
+.credentials p {
+  font-family: "Barlow";
+  font-size: medium;
+}
+
+.credentials h6 {
+  font-family: "Fraunces", serif;
+  margin-top: 3rem;
+}
+
+.bio {
+  margin-top: 3rem;
+  color: #404344;
+}
+
+.sunnyside {
+  color: #246453;
+}
+
+.sunnyside li {
+  list-style: none;
+  display: inline;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.sunnyside > h3 {
+  font-family: "Fraunces", serif;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.icons {
+  margin-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.fa {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.credentials p{
+  color: #73737A;
+}
+
+/* const Venue = new Car(4,'v4',4,yes);
+const Rolls royce = new Car(4,'v12',4,no);
+const breeza = new Car(4,'v4',4,yes); */
